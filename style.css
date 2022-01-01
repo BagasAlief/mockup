@@ -1,0 +1,21 @@
+.row .bagas{
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    position: relative;
+    overflow: hidden;
+    border-radius: 60%;
+    margin: 20px;
+    margin-top: -5%;
+}
+
+.row .doli{
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    position: relative;
+    overflow: hidden;
+    border-radius: 60%;
+    margin-top: -5%;
+    margin-bottom: 18px;
+}
